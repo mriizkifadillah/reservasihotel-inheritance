@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=koneksi
+comment1.params=
+comment1.target=java.sql.Connection\ bukaKoneksi()
+comment2.params=
+comment2.target=void\ tutupKoneksi()
+numComments=3

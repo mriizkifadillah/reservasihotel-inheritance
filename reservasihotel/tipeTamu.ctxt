@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=tipeTamu
+comment1.params=id\ nama\ nomorTelepon\ usia\ jenisKamar\ nomorKamar\ lamaMenginap\ tanggalCheckIn\ tanggalCheckOut\ hargaPerhari
+comment1.target=tipeTamu(int,\ java.lang.String,\ int,\ int,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ hitungTotalPembayaran()
+comment3.params=
+comment3.target=void\ inputDataTamu()
+numComments=4
