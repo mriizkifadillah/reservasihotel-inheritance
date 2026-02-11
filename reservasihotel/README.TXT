@@ -7,6 +7,6 @@ all they need to know. The comments should usually include at least:
 PROJECT TITLE: reservasihotel-inheritance
 PURPOSE OF PROJECT:
 VERSION or DATE:
-HOW TO START THIS PROJECT: check stepbystep.txt
+HOW TO START THIS PROJECT:
 AUTHORS: Kintarou
 USER INSTRUCTIONS:
